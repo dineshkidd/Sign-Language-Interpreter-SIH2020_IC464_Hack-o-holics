@@ -1,5 +1,5 @@
 # Sign Language Interpreter
-## Smart India Hackathon 2024
+## Smart India Hackathon 2020
 #### By Hack'o'holics
 
 https://github.com/user-attachments/assets/83edf1fa-db38-4d8f-90d8-044fc764c3d2
